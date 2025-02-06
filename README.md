@@ -2,6 +2,8 @@
 
 This is the backend of a recipe book system built with **Node.js**, **Express**, **MongoDB**, and **Prisma ORM**. The goal is to provide a RESTful API to manage recipes.
 
+**Frontend: https://github.com/biachiarelli/frontend-cookbook**
+
 ---
 
 ## 📋 Features
