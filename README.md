@@ -33,8 +33,8 @@ This is the backend of a recipe book system built with **Node.js**, **Express**,
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/biachiarelli/backend-cookbook
+cd backend-cookbook
 ```
 
 ### 3. Install dependencies
