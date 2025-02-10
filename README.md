@@ -61,17 +61,16 @@ npx prisma generate
 ```
 
 
-2. (Optional) Run database migrations:
+2. (Optional) Push changes database:
 ```bash
-npx prisma migrate dev
+npx prisma db push
 ```
 
 
 ### 6.Run the server
 ```bash
-npm run dev
-# or
-yarn dev
+cd src
+node --watch server.js
 ```
 
 
